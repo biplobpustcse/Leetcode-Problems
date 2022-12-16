@@ -2,7 +2,8 @@
 #### 94. Binary Tree Inorder Traversal
 
 Given the root of a binary tree, return the inorder traversal of its nodes' values.\
-Example 1:
+Example 1:\
+![image](https://user-images.githubusercontent.com/59637279/208133879-e55de709-b40d-4a66-bf61-760217720090.png)
 
 Input: root = [1,null,2,3]
 Output: [1,3,2] \
